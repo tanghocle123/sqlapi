@@ -1,0 +1,5 @@
+temp.cpp and temp.h can be changed to your subject of coding. For example array.h, array.cpp or trie.h, trie.cpp
+
+Try to include things in includer
+
+Add #pragma once to every temp.h for safety
